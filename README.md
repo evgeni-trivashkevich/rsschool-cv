@@ -1,1 +1,1 @@
-https://GITHUB-evgeni-trivashkevich.github.io/rsschool-cv/cvgit 
+https://GITHUB-evgeni-trivashkevich.github.io/rsschool-cv/cv 
