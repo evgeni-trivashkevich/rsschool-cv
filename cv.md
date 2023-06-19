@@ -19,13 +19,14 @@ function isPowerOfTwo(n){
 ```
 
 ### Work experience:
-Nothing yet…
+My projects in RSschool 
+* [My CV](https://evgeni-trivashkevich.github.io/rsschool-cv/cv "CV") 
+* [Plants](https://rolling-scopes-school.github.io/evgeni-trivashkevich-JSFEPRESCHOOL2022Q4/plants/ "Plants") 
 
 ### Education:
 Belarusian National Technical University:
-
-** _Vocational training (mechanical engineering)_     
-** _Innovative technologies in mechanical engineering_
+* _Vocational training (mechanical engineering)_     
+* _Innovative technologies in mechanical engineering_
 
 ### Courses:
 StreamLine Language School: Starter (CEFR A1)
