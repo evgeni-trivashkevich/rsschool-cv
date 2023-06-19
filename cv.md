@@ -11,7 +11,12 @@
 The world is developing very quickly and the model of education of the last century is simply outdated. Now the model of education is "study or be at the bottom." I want to spend this year on acquiring new knowledge as a result of new opportunities, a new community, a new round of self-development. I think that schooling will give me answers and tools to my previous requests.
 
 ### Code example:
-Coming soon...
+```
+function isPowerOfTwo(n){
+  //.. should return true or false ..
+   return Math.log2(n) % 1 == 0;
+}
+```
 
 ### Work experience:
 Nothing yet…
