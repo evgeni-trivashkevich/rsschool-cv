@@ -23,6 +23,7 @@ Nothing yet…
 
 ### Education:
 Belarusian National Technical University:
+
 ** _Vocational training (mechanical engineering)_     
 ** _Innovative technologies in mechanical engineering_
 
